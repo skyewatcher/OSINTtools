@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## OSINT Tools & Resources
 
-You can use the [editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use these tools for free, some may have pro features for a cost, but they should all have free editions. If not, let me know and I'll remove or move the tool.   
+
+### Social Media
+
+[Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
+
+[editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
