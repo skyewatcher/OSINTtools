@@ -14,8 +14,10 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
 
-[editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Linux Tools 
+[TraceLabs Linux Distro](https://www.tracelabs.org/initiatives/osint-vm) OSINT VM.
 
+[editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 ### Social Media
 [Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
 
@@ -30,3 +32,4 @@ You can use these tools for free, some may have pro features for a cost, but the
 ### GitHub pages are really easy to use and free. 
 Having trouble with Pages? Check out the [documentation](https://docs.github.com/categories/github-pages-basics/)
 
+'''[editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
