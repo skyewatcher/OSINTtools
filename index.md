@@ -21,9 +21,9 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 ### OPSEC & Privacy Tools
 [Privacy Tools](https://www.privacytools.io/) You're being watched. Make it as difficult as possible.
-http://dodcio.defense.gov/Social-Media/S
 
 [Social Media Security](http://dodcio.defense.gov/Social-Media/S) Personal social media security tips from the US Department of Defense. 
+
 ### Social Media
 [Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
 
