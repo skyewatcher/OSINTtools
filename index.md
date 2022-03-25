@@ -2,6 +2,8 @@
 ### Welcome to #OSINT old school. 
 It’s like baseball. You gotta learn the fundamentals.
 
+if you're not sure yet, try this [article by Emily Stamm](https://www.csnp.org/post/a-beginners-guide-to-osint) to find out a little more about OSINT.
+
 You can use these tools for free, some may have pro features for a cost, but they should all have free editions. If not, let me know and I'll remove or move the tool.
 
 [Grey Campus](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools) Various OSINT tools that are available in the market. 
