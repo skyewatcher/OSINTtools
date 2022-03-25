@@ -4,15 +4,22 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 ### Social Media
 
+[Grey Canpus](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools) Various OSINT tools that are available in the market. 
+
 [Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
 
-[Grey Zone](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools) Various OSINT tools that are available in the market. 
+[editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 [Maltego](https://www.maltego.com/) Integrate data from public sources (OSINT), commercial vendors, and internal sources via the Maltego Transform Hub. All data comes pre-packaged as Transforms ready to be used in investigations.
 
 [DNS Checker](https://dnschecker.org/) DNS, IP, and other great tools including a random password generator.
 
+[MX Toolbox](https://mxtoolbox.com/) Mx records and other email, domain and dns analysis tools.
+
 [editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+
+
 # GIT HUB PAGES (I left this up for y'all)
 
 
@@ -39,6 +46,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
