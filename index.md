@@ -34,8 +34,6 @@ You can use these tools for free, some may have pro features for a cost, but the
 [OSINT Framework](https://osintframework.com/) This is street cred, which used to be a secret, but here I am telling it.
 
 ## GIT HUB PAGES 
-### (Markdown instructions)
-
 ### GitHub pages are really easy to use and free. 
 Having trouble with Pages? Check out the [documentation](https://docs.github.com/categories/github-pages-basics/)
 
