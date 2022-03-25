@@ -6,7 +6,15 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 [Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
 
+[Grey Zone](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools) Various OSINT tools that are available in the market. 
+
+[Maltego](https://www.maltego.com/) Integrate data from public sources (OSINT), commercial vendors, and internal sources via the Maltego Transform Hub. All data comes pre-packaged as Transforms ready to be used in investigations.
+
+[DNS Checker](https://dnschecker.org/) DNS, IP, and other great tools including a random password generator.
+
 [editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# GIT HUB PAGES (I left this up for y'all)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
