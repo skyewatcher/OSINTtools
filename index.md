@@ -4,13 +4,10 @@ It’s like baseball. You gotta learn the fundamentals.
 
 You can use these tools for free, some may have pro features for a cost, but they should all have free editions. If not, let me know and I'll remove or move the tool.   
 
-### Social Media
-https://osintframework.com/
-
 
 [Grey Campus](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools) Various OSINT tools that are available in the market. 
 
-[Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
+
 
 [Maltego](https://www.maltego.com/) Integrate data from public sources (OSINT), commercial vendors, and internal sources via the Maltego Transform Hub. All data comes pre-packaged as Transforms ready to be used in investigations.
 
@@ -22,9 +19,11 @@ https://osintframework.com/
 
 [editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+### Social Media
+[Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
 
-
-[The Boss](https://osintframework.com/) This is street cred, which used to be a secret, but here I am telling it.
+##The Boss
+[OSINT Framework](https://osintframework.com/) This is street cred, which used to be a secret, but here I am telling it.
 
 # GIT HUB PAGES (Markdown instructions)
 
