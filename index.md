@@ -4,11 +4,9 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 ### Social Media
 
-[Grey Canpus](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools) Various OSINT tools that are available in the market. 
+[Grey Campus](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools) Various OSINT tools that are available in the market. 
 
 [Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
-
-[editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 [Maltego](https://www.maltego.com/) Integrate data from public sources (OSINT), commercial vendors, and internal sources via the Maltego Transform Hub. All data comes pre-packaged as Transforms ready to be used in investigations.
 
@@ -18,10 +16,11 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 [editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+[editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+# GIT HUB PAGES (Markdown instructions)
 
-# GIT HUB PAGES (I left this up for y'all)
-
+### GitHub pages are really easy to use and free. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
