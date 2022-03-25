@@ -1,8 +1,12 @@
 ## OSINT Tools & Resources
+### Welcome to #OSINT old school. 
+It’s like baseball. You gotta learn the fundamentals.
 
 You can use these tools for free, some may have pro features for a cost, but they should all have free editions. If not, let me know and I'll remove or move the tool.   
 
 ### Social Media
+https://osintframework.com/
+
 
 [Grey Campus](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools) Various OSINT tools that are available in the market. 
 
@@ -18,11 +22,15 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 [editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+
+
+[The Boss](https://osintframework.com/) This is street cred, which used to be a secret, but here I am telling it.
+
 # GIT HUB PAGES (Markdown instructions)
 
 ### GitHub pages are really easy to use and free. 
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
