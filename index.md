@@ -22,7 +22,7 @@ You can use these tools for free, some may have pro features for a cost, but the
 ### Social Media
 [Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
 
-##The Boss
+### The Boss
 [OSINT Framework](https://osintframework.com/) This is street cred, which used to be a secret, but here I am telling it.
 
 # GIT HUB PAGES (Markdown instructions)
