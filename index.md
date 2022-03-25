@@ -17,7 +17,9 @@ You can use these tools for free, some may have pro features for a cost, but the
 ### Linux Tools 
 [TraceLabs Linux Distro](https://www.tracelabs.org/initiatives/osint-vm) OSINT VM.
 
-[editor on GitHub](https://github.com/skyewatcher/OSINTtools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### OPSEC & Privacy Tools
+[Privacy Tools](https://www.privacytools.io/) You're being watched. Make it as difficult as possible.
+
 ### Social Media
 [Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
 
