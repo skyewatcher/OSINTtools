@@ -33,7 +33,7 @@ You can use these tools for free, some may have pro features for a cost, but the
 ### The Boss
 [OSINT Framework](https://osintframework.com/) This is street cred, which used to be a secret, but here I am telling it.
 
-# GIT HUB PAGES 
+## GIT HUB PAGES 
 ### (Markdown instructions)
 
 ### GitHub pages are really easy to use and free. 
