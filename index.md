@@ -28,11 +28,11 @@ You can use these tools for free, some may have pro features for a cost, but the
 [Spiderfoot](https://spiderfoot.com) to research social media links and online footprints.
 
 ### Classes 
-
 [Scrape the Planet - Udemy](https://www.udemy.com/course/scrape-the-planet/) There's no more important or convenient OSINT tool than web scraping. This is a great course to learn scraping at your own pace. Thorough, professionally presented and very, very understandable for anyone.
-[Google Dorks - Cybrary](https://www.cybrary.it/blog/0p3n/google-dorks-easy-way-of-hacking/) Google Dork query is a search string that uses advanced search operators to find information that is not readily available on a website.
 
 [Google Dorks - Cybrary](https://www.cybrary.it/blog/0p3n/google-dorks-easy-way-of-hacking/) Google Dork query is a search string that uses advanced search operators to find information that is not readily available on a website.
+
+[OSINT - Udemy](https://www.udemy.com/course/osint-open-source-intelligence-training/) This is free! 
 
 ### The Boss
 [OSINT Framework](https://osintframework.com/) This is street cred, which used to be a secret, but here I am telling it.
