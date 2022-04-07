@@ -16,6 +16,10 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
 
+[Open Corporate](https://opencorporates.com) The largest open database of companies in the world, our business is making high-quality, official company data openly available. 
+
+[Open Secrets](https://www.opensecrets.org/) Nonpartisan, independent and nonprofit, OpenSecrets is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy.
+
 ### Linux Tools 
 [TraceLabs Linux Distro](https://www.tracelabs.org/initiatives/osint-vm) OSINT VM.
 
