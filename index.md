@@ -38,6 +38,9 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 [OSINT - Udemy](https://www.udemy.com/course/osint-open-source-intelligence-training/) This is free! 
 
+[Maltego Transforms by OSINT Dojo](https://www.youtube.com/watch?v=k5oikWy0OLc)
+
+
 ### The Boss
 [OSINT Framework](https://osintframework.com/) This is street cred, which used to be a secret, but here I am telling it.
 
