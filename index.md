@@ -22,10 +22,12 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 [Open Secrets](https://www.opensecrets.org/) Nonpartisan, independent and nonprofit, OpenSecrets is the nation's premier research group tracking money in U.S. politics and its effect on elections and public policy.
 
+[Recon](https://recon.us.com/app/) OSINT framework - browser based suite of tools.
+
 ### Linux Tools 
 [TraceLabs Linux Distro](https://www.tracelabs.org/initiatives/osint-vm) OSINT VM.
 
-[Recon](https://recon.us.com/app/) OSINT framework - suite of tools for Linux.
+[Recon Spider](https://github.com/bhavsec/reconspider) OSINT framework - suite of tools for Linux.
 
 ### OPSEC & Privacy Tools
 [Privacy Tools](https://www.privacytools.io/) You're being watched. Make it as difficult as possible.
