@@ -4,6 +4,8 @@ It’s like baseball. You gotta learn the fundamentals.
 
 if you're not sure yet, try this [article by Emily Stamm](https://www.csnp.org/post/a-beginners-guide-to-osint) to find out a little more about OSINT.
 
+Please spend some time learning about [ethics in OSINT](https://responsibledata.io/2016/11/14/responsible-data-open-source-intelligence/) and [PAPA](https://aisel.aisnet.org/jmwais/vol2020/iss2/3/) 
+
 You can use these tools for free, some may have pro features for a cost, but they should all have free editions. If not, let me know and I'll remove or move the tool.
 
 [Grey Campus](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools) Various OSINT tools that are available in the market. 
@@ -23,6 +25,8 @@ You can use these tools for free, some may have pro features for a cost, but the
 ### Linux Tools 
 [TraceLabs Linux Distro](https://www.tracelabs.org/initiatives/osint-vm) OSINT VM.
 
+[Recon](https://recon.us.com/app/) OSINT framework - suite of tools for Linux.
+
 ### OPSEC & Privacy Tools
 [Privacy Tools](https://www.privacytools.io/) You're being watched. Make it as difficult as possible.
 
@@ -40,6 +44,9 @@ You can use these tools for free, some may have pro features for a cost, but the
 
 [Maltego Transforms by OSINT Dojo](https://www.youtube.com/watch?v=k5oikWy0OLc)
 
+### Business tools
+
+[US Tax ID lookup](https://eintaxid.com/) Use responsibly - historical data 
 
 ### The Boss
 [OSINT Framework](https://osintframework.com/) This is street cred, which used to be a secret, but here I am telling it.
